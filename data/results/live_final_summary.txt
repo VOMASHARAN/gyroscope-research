@@ -1,0 +1,11 @@
+LIVE 9-PORT RESEARCH PIPELINE SUMMARY
+ports: PASS (9 connected)
+received samples per stream: 1000
+aligned live rows: 1000
+ALLAN_SOURCE: imm_association
+ARW: {'status': 'SLOPE_NOT_CONCLUSIVE', 'points': 31, 'slope': 0.6840460807676632, 'coefficient': nan}
+RRW: {'status': 'SLOPE_NOT_CONCLUSIVE', 'points': 8, 'slope': -1.25954179987507, 'coefficient': nan}
+IMM: PASS (linear Gaussian scalar random-walk models with explicit mixing, likelihoods, and model probabilities)
+Association: PASS (single-target PMA; not full classical JPDA and has no multi-target joint-event or clutter model)
+Offline data: reference-only; no offline fallback was used.
+Generated artifacts are under data/results.

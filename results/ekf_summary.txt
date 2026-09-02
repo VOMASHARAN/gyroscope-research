@@ -1,0 +1,13 @@
+BASIC EKF PERFORMANCE METRICS
+
+Definitions:
+- Mean error = mean(ekf - baseline)
+- MAE = mean(abs(ekf - baseline))
+- RMSE = sqrt(mean((ekf - baseline)^2))
+- Max abs error = max(abs(ekf - baseline))
+- Std error = std(ekf - baseline)
+- Latency reported in sample steps for the basic filter.
+
+Axis=x: mean_error=0.545516, MAE=0.990949, RMSE=1.242030, max_abs_error=3.196755, std_error=1.115818, latency_samples=1
+Axis=y: mean_error=0.545073, MAE=0.991613, RMSE=1.240185, max_abs_error=3.171072, std_error=1.113982, latency_samples=1
+Axis=z: mean_error=0.535496, MAE=0.987246, RMSE=1.235225, max_abs_error=3.157493, std_error=1.113114, latency_samples=1

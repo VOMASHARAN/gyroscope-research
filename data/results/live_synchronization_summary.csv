@@ -1,0 +1,2 @@
+status,aligned_samples,sampling_frequency_hz,duplicate_timestamps,missing_alignment_rows,maximum_alignment_error_s,overlap_start_s,overlap_end_s
+PASS,100,200.0,0,0,5.117434254131581e-17,0.0,0.495

@@ -1,0 +1,4 @@
+method,mean_rmse,latency_microseconds
+basic_fusion,0.5667811035928679,
+ekf,0.5669276441643384,
+imm_association,0.5671025849208817,72.20256670552772

@@ -1,0 +1,35 @@
+CORRELATION STATISTICS
+
+X axis: avg=0.5898, min=0.4435, max=0.8246
+Y axis: avg=0.4634, min=-0.0738, max=0.7570
+Z axis: avg=0.4808, min=0.0303, max=0.8757
+
+OVERALL:
+average=0.5113, max=0.8757
+
+BASELINE-CORRELATION SUMMARY:
+gyro1_x vs baseline_x: 0.7759
+gyro1_y vs baseline_y: 0.4505
+gyro1_z vs baseline_z: 0.4306
+gyro2_x vs baseline_x: 0.6839
+gyro2_y vs baseline_y: 0.8684
+gyro2_z vs baseline_z: 0.7524
+gyro3_x vs baseline_x: 0.7714
+gyro3_y vs baseline_y: 0.8396
+gyro3_z vs baseline_z: 0.6457
+gyro4_x vs baseline_x: 0.8194
+gyro4_y vs baseline_y: 0.7727
+gyro4_z vs baseline_z: 0.8167
+gyro5_x vs baseline_x: 0.6683
+gyro5_y vs baseline_y: 0.3601
+gyro5_z vs baseline_z: 0.8180
+gyro6_x vs baseline_x: 0.8116
+gyro6_y vs baseline_y: 0.6135
+gyro6_z vs baseline_z: 0.6429
+gyro7_x vs baseline_x: 0.7303
+gyro7_y vs baseline_y: 0.8589
+gyro7_z vs baseline_z: 0.7817
+gyro8_x vs baseline_x: 0.8817
+gyro8_y vs baseline_y: 0.7828
+gyro8_z vs baseline_z: 0.7894
+VALIDATION: FAIL: some pairwise correlation 0.876 exceeds absolute maximum 0.7

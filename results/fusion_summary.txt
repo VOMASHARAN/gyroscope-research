@@ -1,0 +1,12 @@
+FUSION PERFORMANCE METRICS
+
+Definitions:
+- Mean error = mean(fused - baseline)
+- MAE = mean(abs(fused - baseline))
+- RMSE = sqrt(mean((fused - baseline)^2))
+- Max abs error = max(abs(fused - baseline))
+- Std error = std(fused - baseline)
+
+Axis=x: mean_error=0.545729, MAE=0.991605, RMSE=1.242886, max_abs_error=3.196958, std_error=1.116667
+Axis=y: mean_error=0.545539, MAE=0.992246, RMSE=1.241082, max_abs_error=3.175775, std_error=1.114752
+Axis=z: mean_error=0.536018, MAE=0.987940, RMSE=1.236166, max_abs_error=3.150900, std_error=1.113909
