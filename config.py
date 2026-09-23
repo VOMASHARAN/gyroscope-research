@@ -14,7 +14,7 @@ RRW_COEFFICIENT: Final = 1e-5    # RRW coefficient (rad/s^2 / sqrt(Hz))
 MARKOV_STD: Final = 0.02         # std dev for Markov process
 MARKOV_TIME_CONSTANT: Final = 5.0 # seconds
 
-COMMON_COMPONENT_STRENGTH: Final = 0.02  # scale applied to the common component before mixing (reduced to lower correlations)
+COMMON_COMPONENT_STRENGTH: Final = 0.037  # scale applied to the common component before mixing
 BASELINE_NOISE_SCALE: Final = 0.25
 BASELINE_COMMON_SCALE: Final = 1.20
 
